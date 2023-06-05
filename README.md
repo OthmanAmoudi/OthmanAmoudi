@@ -5,7 +5,7 @@ web & mobile
 ------------
 
 * 🌍  I'm based in jeddah
-* 🖥️  See my portfolio at [SEE MY PORTFOLIO](http://othman.dev)
+<!-- * 🖥️  See my portfolio at [SEE MY PORTFOLIO](http://othman.dev) -->
 * ✉️  You can contact me at [Hi@othman.dev](mailto:Hi@othman.dev)
 
 ### Skills
